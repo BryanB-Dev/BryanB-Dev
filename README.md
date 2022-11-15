@@ -4,10 +4,11 @@ My name is Bryan, I was born in 2004, currently in BTS SIO in option SLAM to be 
 
 ## Tools & Programming languages 🔧
 [![mariaDB](https://img.shields.io/badge/MariaDB-★★☆-lightgrey?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white)](https://mariadb.org/)
-[![mongodb](https://img.shields.io/badge/MongoDB-★☆☆-lightgrey?labelColor=4EA94B&logo=MongoDB&style=for-the-badge&logoColor=white)](https://mariadb.org/)
-[![sqlite](https://img.shields.io/badge/SQLITE-★☆☆-lightgrey?labelColor=07405E&logo=sqlite&style=for-the-badge&logoColor=white)](https://mariadb.org/)
+[![mongodb](https://img.shields.io/badge/MongoDB-★☆☆-lightgrey?labelColor=4EA94B&logo=MongoDB&style=for-the-badge&logoColor=white)](https://mongodb.com/)
+[![sqlite](https://img.shields.io/badge/SQLITE-★☆☆-lightgrey?labelColor=07405E&logo=sqlite&style=for-the-badge&logoColor=white)](https://sqlite.org/)
 
 [![vscode](https://img.shields.io/badge/VSCode-★★★-lightgrey?labelColor=0078D4&logo=visual%20studio%20code&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
+[![git](https://img.shields.io/badge/Git-★☆☆-lightgrey?labelColor=0A0C10&logo=git&style=for-the-badge&logoColor=white)](https://git-scm.com/)
 
 [![bash](https://img.shields.io/badge/bash-★★☆-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
