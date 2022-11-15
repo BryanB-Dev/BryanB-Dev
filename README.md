@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9B0EF7&lines=Hello+!+Im+Bryan.;)](https://git.io/typing-svg)
 ## About Me ✨
-My name is Bryan, I was born in 2004, currently in BTS SIO in option SLAM to be able to work as a developper.<br/>
+My name is Bryan, I was born in 2004, currently in BTS SIO in option SLAM to be able to work as a developer.<br/>
 
 ## Tools & Programming languages 🔧
 [![mariaDB](https://img.shields.io/badge/MariaDB-★★☆-lightgrey?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white)](https://mariadb.org/)
