@@ -8,7 +8,7 @@ My name is Bryan, I was born in 2004, currently in BTS SIO in option SLAM to be 
 [![sqlite](https://img.shields.io/badge/SQLITE-★☆☆-lightgrey?labelColor=07405E&logo=sqlite&style=for-the-badge&logoColor=white)](https://sqlite.org/)
 
 [![vscode](https://img.shields.io/badge/VSCode-★★★-lightgrey?labelColor=0078D4&logo=visual%20studio%20code&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
-[![git](https://img.shields.io/badge/Git-★☆☆-lightgrey?labelColor=0A0C10&logo=git&style=for-the-badge&logoColor=white)](https://git-scm.com/)
+[![git](https://img.shields.io/badge/Git-★☆☆-lightgrey?labelColor=E44C30&logo=git&style=for-the-badge&logoColor=white)](https://git-scm.com/)
 
 [![bash](https://img.shields.io/badge/bash-★★☆-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
