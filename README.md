@@ -28,7 +28,7 @@ My name is Bryan, I was born in 2004, currently in BTS SIO in option SLAM to be 
 ## Stats 📈
 ![Main stats](https://github-readme-stats.vercel.app/api?username=bryanb-dev&count_private=true&show_icons=true&theme=radical)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanb-dev&count_private=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanb-dev&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 ![](https://komarev.com/ghpvc/?username=BryanB-Dev&color=lightgrey&labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)
 
