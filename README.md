@@ -4,14 +4,12 @@ My name is Bryan, I was born in 2004, currently in BTS SIO in option SLAM to be 
 
 ## Tools & Programming languages 🔧
 [![windows](https://img.shields.io/badge/windows-★★★-lightgrey?labelColor=0078D6&logo=Windows&style=for-the-badge&logoColor=white)](#)
-[![linux](https://img.shields.io/badge/linux-★★☆-lightgrey?labelColor=FCC624&logo=Linux&style=for-the-badge&logoColor=white)](#)
 [![debian](https://img.shields.io/badge/debian-★★☆-lightgrey?labelColor=A81D33&logo=Debian&style=for-the-badge&logoColor=white)](#)
 [![ubuntu](https://img.shields.io/badge/ubuntu-★★☆-lightgrey?labelColor=E95420&logo=ubuntu&style=for-the-badge&logoColor=white)](#)
 [![kali](https://img.shields.io/badge/kali-★★☆-lightgrey?labelColor=557C94&logo=kali-linux&style=for-the-badge&logoColor=white)](#)
 
 [![vscode](https://img.shields.io/badge/VSCode-★★★-lightgrey?labelColor=0078D4&logo=visual%20studio%20code&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
-[![phpstorm](https://img.shields.io/badge/PHPStorm-★☆☆-lightgrey?labelColor=181717&logo=phpstorm&style=for-the-badge&logoColor=white)]([https://code.visualstudio.com/](https://www.jetbrains.com/fr-fr/phpstorm/))
-[![git](https://img.shields.io/badge/Git-★☆☆-lightgrey?labelColor=E44C30&logo=git&style=for-the-badge&logoColor=white)](https://git-scm.com/)
+[![git](https://img.shields.io/badge/Git-★★☆-lightgrey?labelColor=E44C30&logo=git&style=for-the-badge&logoColor=white)](https://git-scm.com/)
 
 [![bash](https://img.shields.io/badge/bash-★★☆-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
