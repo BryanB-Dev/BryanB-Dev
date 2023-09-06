@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9B0EF7&lines=Hello+!+Im+Bryan.;)](https://git.io/typing-svg)
 ## About Me ✨
-My name is Bryan, I was born in 2004, currently in BTS SIO in option SLAM to be able to work as a developer.<br/>
+As an OpenClassrooms web development student, I am focused on mastering the art of creating captivating websites.<br/>
 
 ## Tools & Programming languages 🔧
 [![windows](https://img.shields.io/badge/windows-★★★-lightgrey?labelColor=0078D6&logo=Windows&style=for-the-badge&logoColor=white)](#)
@@ -13,6 +13,7 @@ My name is Bryan, I was born in 2004, currently in BTS SIO in option SLAM to be 
 
 [![bash](https://img.shields.io/badge/bash-★★☆-lightgrey?labelColor=4EAA25&logo=GNU-Bash&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
+[![mysql](https://img.shields.io/badge/MySQL-★★☆-lightgrey?labelColor=557C94&logo=MySQL&style=for-the-badge&logoColor=white)](https://www.mysql.com/)
 [![mariaDB](https://img.shields.io/badge/MariaDB-★★☆-lightgrey?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white)](https://mariadb.org/)
 [![mongodb](https://img.shields.io/badge/MongoDB-★☆☆-lightgrey?labelColor=4EA94B&logo=MongoDB&style=for-the-badge&logoColor=white)](https://mongodb.com/)
 [![sqlite](https://img.shields.io/badge/SQLITE-★☆☆-lightgrey?labelColor=07405E&logo=sqlite&style=for-the-badge&logoColor=white)](https://sqlite.org/)
