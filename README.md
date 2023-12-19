@@ -27,6 +27,7 @@ As an OpenClassrooms web development student, I am focused on mastering the art 
 
 [![react](https://img.shields.io/badge/react-★★☆-lightgrey?labelColor=61DAFB&logo=React&style=for-the-badge&logoColor=white)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/nodejs-★★☆-lightgrey?labelColor=339933&logo=Node.JS&style=for-the-badge&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/express-★★☆-lightgrey?labelColor=000000&logo=Express&style=for-the-badge&logoColor=white)](https://expressjs.com/)
 [![Sass](https://img.shields.io/badge/sass-★★☆-lightgrey?labelColor=CC6699&logo=Sass&style=for-the-badge&logoColor=white)](https://sass-lang.com/)
 
 ## Stats 📈
