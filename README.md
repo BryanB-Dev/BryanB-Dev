@@ -20,15 +20,15 @@ As an OpenClassrooms web development student, I am focused on mastering the art 
 [![sqlite](https://img.shields.io/badge/SQLITE-★☆☆-lightgrey?labelColor=07405E&logo=sqlite&style=for-the-badge&logoColor=white)](https://sqlite.org/)
 
 [![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
+[![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
 [![javascript](https://img.shields.io/badge/javascript-★★★-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 [![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![php](https://img.shields.io/badge/php-★★☆-lightgrey?labelColor=777BB4&logo=PHP&style=for-the-badge&logoColor=white)](https://www.php.net/)
-[![css](https://img.shields.io/badge/css-★★☆-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
 
+[![Sass](https://img.shields.io/badge/sass-★★★-lightgrey?labelColor=CC6699&logo=Sass&style=for-the-badge&logoColor=white)](https://sass-lang.com/)
 [![react](https://img.shields.io/badge/react-★★☆-lightgrey?labelColor=61DAFB&logo=React&style=for-the-badge&logoColor=white)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/nodejs-★★☆-lightgrey?labelColor=339933&logo=Node.JS&style=for-the-badge&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/express-★★☆-lightgrey?labelColor=000000&logo=Express&style=for-the-badge&logoColor=white)](https://expressjs.com/)
-[![Sass](https://img.shields.io/badge/sass-★★☆-lightgrey?labelColor=CC6699&logo=Sass&style=for-the-badge&logoColor=white)](https://sass-lang.com/)
 
 ## Stats 📈
 ![Main stats](https://github-readme-stats.vercel.app/api?username=bryanb-dev&show_icons=true&theme=radical&count_private=true)
