@@ -31,8 +31,8 @@ As an OpenClassrooms web development student, I am focused on mastering the art 
 [![Express](https://img.shields.io/badge/express-★★☆-lightgrey?labelColor=000000&logo=Express&style=for-the-badge&logoColor=white)](https://expressjs.com/)
 
 ## Stats 📈
-![Main stats](https://github-readme-stats.vercel.app/api?username=bryanb-dev&show_icons=true&theme=radical&count_private=true)
+![Main stats](https://bryanb-dev-github-stats.vercel.app/api?username=bryanb-dev&show_icons=true&theme=radical&count_private=true)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanb-dev&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://bryanb-dev-github-stats.vercel.app/api/top-langs/?username=bryanb-dev&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 ![](https://komarev.com/ghpvc/?username=BryanB-Dev&color=lightgrey&labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)
