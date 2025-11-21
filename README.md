@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9B0EF7&lines=Hello+!+Im+Bryan.;)](https://git.io/typing-svg)
 ## About Me ✨
-As an OpenClassrooms web development student, I am focused on mastering the art of creating captivating websites.<br/>
+As a graduate of the OpenClassrooms web development program (Associate Degree), I am currently pursuing a Bachelor's degree in Artificial Intelligence development. My focus is on mastering the art of creating captivating websites and leveraging AI technologies to enhance user experiences.<br/>
 
 ## Tools & Programming languages 🔧
 [![windows](https://img.shields.io/badge/windows-★★★-lightgrey?labelColor=0078D6&logo=Windows&style=for-the-badge&logoColor=white)](#)
